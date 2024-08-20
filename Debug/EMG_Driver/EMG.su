@@ -1,0 +1,5 @@
+../EMG_Driver/EMG.c:13:6:ADC_Select_CH1	32	static
+../EMG_Driver/EMG.c:30:6:ADC_Select_CH2	32	static
+../EMG_Driver/EMG.c:43:6:ADC_Select_CH3	32	static
+../EMG_Driver/EMG.c:57:6:ADC_Select_CH4	32	static
+../EMG_Driver/EMG.c:71:6:Get_EMG	8	static
